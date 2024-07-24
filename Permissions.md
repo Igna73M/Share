@@ -183,7 +183,7 @@ E9. Investigate the 'facl.txt' file and find what permissions have been set to t
 E10. When using the 'getfacl' command, what is the name of the entry that represents the maximum permissions that can be granted to users and groups on a file or directory?
 
 ```
-
+mask
 ```
 
 [Access Lab]: #access-lab
